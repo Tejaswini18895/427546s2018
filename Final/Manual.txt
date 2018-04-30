@@ -1,0 +1,10 @@
+    
+MANUAL
+----------------------------------------
+- There is nothing to install for the running of this project.
+
+- Most of the features related to the 3d objects are implemented in this project.
+
+- Click on the different links for viewing the operations on the objects. 
+
+- Zoom in and zoom out for the better understanding in the Light,camera and texture implementaions.
